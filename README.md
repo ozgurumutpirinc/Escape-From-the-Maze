@@ -1,4 +1,4 @@
-![Java](https://img.shields.io/badge/language-Java-blue)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 This project is designed for simulating that agents move and try to reach a goal in a maze.
 

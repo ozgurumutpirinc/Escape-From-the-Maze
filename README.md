@@ -1,3 +1,5 @@
+![Java](https://img.shields.io/badge/language-Java-blue)
+
 This project is designed for simulating that agents move and try to reach a goal in a maze.
 
 <b>Data structures such as array, queue, stack were created manually then implemenented on the general of project.</b>
